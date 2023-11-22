@@ -49,7 +49,7 @@ Each folder contains a detailed README files with explanations of the projects. 
 
 <br>
 Thank you for visiting my coding portfolio, and I hope you enjoy exploring the diverse range of projects showcased here! If you have any inquiries or collaboration opportunities, please don't hesitate to contact me.
-
+<br>
 <br>
 Helen Zhou<br>
 Undergraduate in Data Science and Media Arts and Design<br>
