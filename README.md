@@ -47,11 +47,11 @@ Technologies Used
 ## How to Navigate
 Each folder contains a detailed README files with explanations of the projects. Feel free to explore the code, experiment with it, and reach out if you have any questions or feedback.
 
-
+<br><br>
 Thank you for visiting my coding portfolio, and I hope you enjoy exploring the diverse range of projects showcased here! If you have any inquiries or collaboration opportunities, please don't hesitate to contact me.
 
-
-Helen Zhou
-Undergraduate in Data Science and Media Arts and Design
-The University of Chicago, Class of 2024
+<br><br>
+Helen Zhou<br>
+Undergraduate in Data Science and Media Arts and Design<br>
+The University of Chicago, Class of 2024<br>
 email: helenzhou@uchicago.edu
